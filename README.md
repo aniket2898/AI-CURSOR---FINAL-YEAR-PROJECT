@@ -48,3 +48,5 @@ cursor.
 # AI-CURSOR---FINAL-YEAR-PROJECT
 # AI-CURSOR---FINAL-YEAR-PROJECT
 # AI-CURSOR---FINAL-YEAR-PROJECT
+
+Research Paper: https://it-in-industry.org/index.php/itii/article/download/298/258
